@@ -9,6 +9,9 @@ First Mate: Davis P.
 Changelog
 (Newest first)
 
+January 18, 2018 - 5:23 PM
+Added information for each actor's page
+
 January 18, 2018 - 5:07 PM
 Added pages for each actor when an actor's image is clicked
 
